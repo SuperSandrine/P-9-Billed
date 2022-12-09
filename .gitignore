@@ -1,0 +1,7 @@
+# ajouter des chemins de fichier
+#name/
+#!name/secret.log	! specifies a negation or exception. Matches all files and folders in any name folder, except name/secret.log
+bill-app/
+bill-app?/
+bill-app2 copie/
+!bill-app2/
